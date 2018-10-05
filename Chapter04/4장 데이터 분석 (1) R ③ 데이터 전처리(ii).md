@@ -73,7 +73,8 @@ data.frame(sapply(데이터, function(x) ifelse(is.na(x), mean(x, na.rm=TRUE), x
 자세한 내용은 각 분석방법에서 확인하도록 하겠습니다.
 
 ​  
-   
+
+​  
 
 #### 7-1) 변수변환(리코딩)
 
